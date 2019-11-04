@@ -1,4 +1,4 @@
-package com.github.mefmor.demo.spring.liquibase;
+package net.mefmor.demo.spring.liquibase;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

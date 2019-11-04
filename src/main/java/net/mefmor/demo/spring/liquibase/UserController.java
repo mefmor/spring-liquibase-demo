@@ -1,4 +1,4 @@
-package com.github.mefmor.demo.spring.liquibase;
+package net.mefmor.demo.spring.liquibase;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
